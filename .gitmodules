@@ -1,0 +1,3 @@
+[submodule "fastbook"]
+	path = fastbook
+	url = git@github.com:jordanhubbard/fastbook.git
